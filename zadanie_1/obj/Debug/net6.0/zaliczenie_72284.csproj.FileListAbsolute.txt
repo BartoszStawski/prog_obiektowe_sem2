@@ -1,0 +1,15 @@
+C:\Users\barte\source\repos\zaliczenie_72284\bin\Debug\net6.0\zaliczenie_72284.exe
+C:\Users\barte\source\repos\zaliczenie_72284\bin\Debug\net6.0\zaliczenie_72284.deps.json
+C:\Users\barte\source\repos\zaliczenie_72284\bin\Debug\net6.0\zaliczenie_72284.runtimeconfig.json
+C:\Users\barte\source\repos\zaliczenie_72284\bin\Debug\net6.0\zaliczenie_72284.dll
+C:\Users\barte\source\repos\zaliczenie_72284\bin\Debug\net6.0\zaliczenie_72284.pdb
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.csproj.AssemblyReference.cache
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.AssemblyInfoInputs.cache
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.AssemblyInfo.cs
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.csproj.CoreCompileInputs.cache
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.dll
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\refint\zaliczenie_72284.dll
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.pdb
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\zaliczenie_72284.genruntimeconfig.cache
+C:\Users\barte\source\repos\zaliczenie_72284\obj\Debug\net6.0\ref\zaliczenie_72284.dll
